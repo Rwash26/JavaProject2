@@ -1,0 +1,147 @@
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
+Type	Count	Month
+Late	1	2
+Ice	1	2
+Cool	1	2
+Fire	1	2
+CC	1	2
+New	1	2
+Test	1	2
+Lynnette	1	2
+Meeting	15	2
+Consulting	30	2
+Reg	1	2
+Jean	2	2
+Eva	2	2
+Ana	2	2
+Corona	1	2
+Alert	1	7
+Tester	1	7
+Warning	1	7
+Alarm Appointment	1	7
+New Alarm	1	7
